@@ -1,0 +1,14 @@
+body {
+    color:red;
+    text-align: center;
+}
+p {
+    color: royalblue;
+}
+
+h1 {
+    margin: 15px;
+    border: solid;
+    border-color: purple;
+    padding: 20px;
+}
